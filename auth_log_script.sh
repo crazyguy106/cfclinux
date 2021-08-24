@@ -1,8 +1,5 @@
 #1/bin/bash
 
-#echo "Please enter the path for auth.log: "
-#read LOC
-#CAT_FILE="cat $LOC/auth.log"
 echo
 echo "==============================================================="
 #Present to the user the number of Failed attempts made on his system
