@@ -25,8 +25,10 @@ def get_hash(file_location):
 			
 	return sha1.hexdigest()
 
+# Get first argument in terminal
 start_file_location = sys.argv[1]
 
+# Dictionary to store file information
 file_dict = {}
 
 # Recursively walk through all files in all directories
@@ -76,6 +78,7 @@ for size, info in file_dict.items():
 			hashes_dictionary[sha1_hash]['locations'].append(location)
 			hashes_dictionary[sha1_hash]['sizes'].append(size)
 			
+# Store information where file contents are duplicated
 duplicate_names = []
 duplicate_locations = []
 duplicate_sizes = []
@@ -92,6 +95,7 @@ for sha1_hash, info in hashes_dictionary.items():
 	duplicate_locations.append(locations)
 	duplicate_sizes.append(sizes)
 	
+# Print out where duplicates are
 if len(duplicate_names) == 0:
 	print(f'No duplicates found after recursive search through {start_file_location}')
 else:
