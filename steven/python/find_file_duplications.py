@@ -85,7 +85,7 @@ for sha1_hash, info in hashes_dictionary.items():
 	locations = info['locations']
 	sizes = info['sizes']
 	
-	if len(names) > 2:
+	if len(names) < 2:
 		continue
 	
 	duplicate_names.append(names)
