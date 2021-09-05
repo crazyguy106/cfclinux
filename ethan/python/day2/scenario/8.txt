@@ -1,0 +1,77 @@
+My name is Edward Joseph Snowden. I used to work for the government, but
+I work for the public. It took me nearly three decades to recognize that there *
+was a distinction, and when I did, it got me into a bit of trouble at the office. As
+a result, I now spend my time trying to protect the public from the person I used
+to be-a spy for the Central Intelligence Agency (CIA) and National Security
+Agency (NSA), just another young technologist out to build what I was sure
+would be a better world.
+
+My career in the American Intelligence Community (IC) only lasted a short
+seven years, which I'm surprised to realize is just one year longer than the time
+I've spent since in exile in a country that wasn't my choice. During that seven-
+year stint, however, I participated in the most significant change in the history of
+American espionage-the change from the targeted surveillance of individuals to
+the mass surveillance of entire populations. I helped make it technologically
+feasible for a single government to collect all the world's digital
+communications, store them for ages, and search through them at will.
+
+After 9/11, the IC was racked with guilt for failing to protect America, for
+letting the most devastating* and destructive attack on the country since Pearl
+Harbor occur on its watch. In response, its leaders sought to build a system that
+would prevent them from being caught off guard ever again.
+On its foundation, technology, a foreign thing to their army of political science *majors
+and masters of business administration. The doors to the most secreti-
+ve *intelligence agencies were flung wide open to young technologists like myself.
+And so the geek inherited the earth.
+
+If I knew anything back then, I knew computers, so I rose quickly. At twenty-
+two, I got my first top secret clearance from the NSA, for a position at the very
+bottom of the org chart. Less than a year later, I was at the CIA, as a systems
+engineer with sprawling access to some of the most sensitive networks *on the
+planet. The only adult supervision was a guy who spent his shifts reading
+
+
+
+
+
+paperbacks by Robert Ludlum* and Tom Clancy. The agencies were breaking all
+of their own rules in their quest to hire technical talent. They'd normally never
+hire anybody without a bachelor's degree, or later at least an associate's, neither
+of which I had.
+Yes, by all rights, I should never have even been let into the building. *
+
+From 2007 to 2009, I was stationed at the US Embassy in Geneva as one of
+the rare technologists deployed under diplomatic cover, tasked with bringing the
+CIA into the future by bringing its European stations online, digitizing and
+automating the network by which the US government spied. My generation did
+more than reengineer the work of intelligence; we entirely redefined what
+intelligence was. For us, it was not about clandestine meetings or dead drops, but
+about data.
+
+By age twenty-six, I was a nominal employee of Dell, but once again
+working for the NS A. Contracting had become my cover, as it was for nearly all
+the *tech-inclined spies of my cohort. I was sent to Japan, where I helped to
+design what amounted to the agency's global backup-a massive covert network
+that ensured that even if the NSA's headquarters was reduced to ash in a nuclear
+blast, no data would ever be lost. At the time, I didn't realize that engineering a
+system that would keep a permanent record of everyone's life was a tragic
+mistake.
+
+I came back to the States at age twenty-eight, and received a stratospheric
+promotion to the technical liaison team handling Dell's relationship with the
+CIA. My job was to sit down with the heads of the technical divisions of the CIA
+in order to design and sell the solution to any problem that they could imagine. My team
+helped the agency build a new *type of computing architecture-a
+"cloud," the first technology that enabled every agent, no matter where they
+were physically located, to access and search any data they needed, no matter the
+distance.
+
+In sum, a job managing and connecting the flow of intelligence gave way to a
+job figuring out how to store it forever, which in turn gave way to a job making
+sure it was universally available and searchable. These projects came into focus
+for me in Hawaii, where I moved to take a new contract with the NS A at the age
+of twenty-nine. *Up until then, I'd been laboring under the doctrine of Need to
+Know, unable to understand the cumulative purpose behind my specialized,
+compartmentalized tasks. It was only in paradise that I was fi-
+nally in a position to see how all my work fit together, meshing like the gears *of a giant machine
+to form a system of global mass surveillance.

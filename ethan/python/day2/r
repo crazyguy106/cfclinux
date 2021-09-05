@@ -1,0 +1,340 @@
+     Knowledge for Change Program
+     Guidelines for Reviewers1
+
+     TTL: Paulo Bastos and Bob Rijkers
+
+     Proposal Title: Automation, Trade, and Labor Markets
+
+
+     The Knowledge for Change Program’s Internal Management Committee (IMC) seeks expert review
+     of all proposals. The contributions of expert reviewers are essential to foster high quality research,
+     and careful reviews of research proposals carry great weight in IMC’s funding decisions.
+
+     We would like to draw your attention to the attached KCP III activities document which outlines the
+     priority research questions under each theme. Please take it into account in your review. Please
+     provide detailed comments, as appropriate.
+
+     Reviewers are requested to respond to the following:
+
+1.       Objectives. Are the goals or objectives of the proposed study well defined? Are the issues
+             important for policy in developing (or transition) countries?
+
+            Comments:
+
+            The overall objectives of the project are very clearly stated. It proposes to assess the
+            (potential) implications of automation on North-South trade and on developing country
+            labour markets.
+
+            Understanding the (potential) impact of automation is highly relevant to (trade) policy
+            making in/for developing countries. The repercussions of automation on trade patterns
+            and the resulting distributional impacts may require not only smart trade policies, but
+            also policy responses in social protection, labour market and education policies.
+
+
+
+
+     1
+       Confidentiality of the Review and Reviewer: All reasonable care is taken to maintain reviewer confidentiality.
+     The applicant will have the opportunity to read the (anonymous) reviews. Reviewers are asked to omit any obvious
+     references to their own work, if any.
+     Guidelines for Reviewers
+2.     Analytic Design and Data.: Are the analytical approach adequate and methodology rigorous
+           to deal with the research questions? Is data attainable or do statistical techniques
+           adequately compensate for data limitation?
+
+
+
+          Comments:
+
+          The project proposes three analytical approaches: A cross-country analysis of the effects of
+          automation in developed countries on imports sourced from developing countries, a case
+          study on the labor market effects of US and domestic automation in Mexico and a simulation
+          exercise that combines insights of the two previous approaches.
+
+          First, the project thus intends to econometrically analyze the impacts of automation on trade
+          using cross-country sector-level data on trade flows and the use of robots. In principle, the
+          proposed empirical strategy is adequate and the authors also propose some possible (IV)
+          strategies to deal with issues of reverse causality and omitted variable bias. As identification
+          is not a side issue in the proposed exercise it would have been instructive to be more explicit
+          about the IV strategy and potential omitted variables (I am thinking in particular about
+          imports from China). The trade data are a standard (and attainable) source and there are
+          methods available to deal with the involved challenges (e.g. zero inflation) the authors are
+          certainly aware of. The second (but key) data come from the International Federation of
+          Robotics (not “Robots”, as in the proposal, … not yet). It would have been very useful if
+          some more detail and shortcomings of these data (coverage, time dimension, sectoral
+          disaggregation, representativeness) relevant to the proposed exercise had been presented.
+          Further, the authors want to use a EU-wide dataset on industrial production (EU-KLEMS)
+          for the factoring-in input-output linkages. Here, it remains somewhat unclear whether this
+          implies that this type of analysis (but also the use of some of the proposed IV-strategies that
+          rely on employment by tasks) would remain restricted to EU-South trade or whether similar
+          data can be obtained for other advanced economies/regions. In general, not enough detail
+          is provided on how the authors want to integrate input-output linkages in their analysis.
+
+          Second, the case of Mexico will be subject to an empirical analysis of the local labor market
+          impacts of domestic and US automation. The authors propose an approach “in the spirit”
+          of Acemoglu and Restrepo (2017) to quantify the effect of the exposure of automation on
+          local exports, employmemt and wages. The analysis will be conducted using municipal-level
+          trade data and information from economic and population census data (plus, of course,
+          information on the use of robots). Although not well described in the proposal the variation
+          for identifying the effect of automation on local labour markets (I think) comes from national
+          and international data on the use of robots that can be used to compute an “exposure to
+          automation” measure based on said employment statistics. Some estimation equation would
+          have helped the reader to better understand this. Further, some detail on the data on use of
+          robots in Mexico (incidence, sectoral disaggregation and some trends) would have been
+          very useful to judge the feasibility of the proposed study. In my view, the authors should have
+          addressed some points why the Acemoglu and Restrepo approach may not be very easily
+          replicated in the Mexican context. To mention one major challenge: Acemoglu and Restrepo
+          (2017) use commuting zones in their analysis, which may be different from the administrative
+          zones mentioned in the proposal. I am pretty certain that this will be an issue that the authors
+          will have to deal with.
+                                                            2
+   Guidelines for Reviewers
+
+        In a third step, the insights of the former two approaches ought to be combined in a
+        “simulation exercise” of different automation and policy scenarios. I am sympathetic to the
+        idea of using the obtained results for some indicative scenario analysis. At this stage, this
+        section is rather vague albeit some reflections on possible “automation and policy
+        scenarios” might have instructive. Further, I would have liked to see, however, some
+        mentioning of a (planned) systematic reflection on the external validity of the findings (of
+        both studies). This will be required to put the proposed simulation exercises (and, in fact,
+        the proposed studies) into context: (1) The studies will only look at the effects of robots in
+        industrial activities. While interesting and instructive, in particular for manufacturing
+        exporters from the Global South, automation in service sectors will probably have very
+        different effects on trade and labour markets. (2) The Mexican case may be peculiar because
+        of the (partly) high integration of the firm into US-based value chains. It will be a worthwhile
+        exercise to identify places for which the Mexican lessons are particularly worthwhile
+        studying.
+
+
+
+3. Literature. Does the proposal reflect the current knowledge and literature? Does the proposal
+   provide convincing rationale for the selection of issues within an overarching topic ? – through an
+   overview of the existing body of literature on the subject, identification of priorities for deeper
+   understanding, and discussion of analytical problems constraining operations and policy.
+
+
+        Comments:
+
+        The proposal (mainly in its literature review section) makes references to the relevant
+        related strands of literature and, in this sense, it reflects the current knowledge. It does,
+        however, a mixed job in explicitly formulating the key research/policy questions, providing
+        a corresponding summary of current knowledge and identifying gaps/issues that the
+        proposal can (and cannot) address. This is less the case for the literature on the labour
+        market impacts of automation (at the beginning of the literature review, section 3). Here,
+        the main findings of key studies and the gaps (with regard to developing countries) are well
+        described albeit analytical challenges could have received some more attention. The
+        references to the two other literature strands on the impacts of automation on trade patterns
+        and structural change are fairly superficial. The paragraph on trade pattern is confusing
+        and quickly moves to distributional effects (on skill premia). Here, one would have expected
+        to see the contribution of the first study being highlighted. In general, the second part of the
+        literature review fails to provide key results from the many cited studies and is not able to
+        show knowledge gaps. While the proposal could clearly have done a better job in connecting
+        the different strands of literature, the overall rationale for the chosen topic is still convincing
+        enough.
+
+        PS: Neither the proposal nor the concept note provide a reference list. This is clearly not
+        ideal.
+
+
+
+
+                                                          3
+   Guidelines for Reviewers
+4. Program Implementation. Is the implementation arrangement appropriate to the demands of
+   the work? Is the team sufficiently experienced and skilled to undertake the project?
+
+        Comments:
+
+        The implementation plan corresponds to the project’s requirements. This holds for both the
+        envisaged schedule and the project team. The team is composed of a number of experienced
+        researchers with relevant publication records (Artuc, Bastos). The tasks of the STC should
+        have been described in the implementation plan.
+
+
+
+
+5. Will the proposed study have potential policy impact? Please rate the potential policy impact in
+   developing (or transition) countries or in the World Bank, assuming the study is undertaken as
+   planned.
+
+         Your rating____4_____(on a scale of 1 to 5, with 1 being no policy impact and 5 being
+         the greatest potential to influence policy)
+
+
+         Comments:
+
+         The potential policy impact is high since the produced evidence will be in high demand.
+         The “future of work”, including in developing countries, is one of the key themes of the
+         current economic policy (and development policy) discourses. The authors should be able
+         to maximize their impact if their dissemination strategy is not too “paper-based. The
+         planned policy-oriented briefs should, in particular, dedicate effort to contextualize their
+         findings (see, for example, my remarks above on external validity).
+
+
+
+
+                                                        4
+     Guidelines for Reviewers
+
+
+
+6.     Local Capacity Building. Does the project incorporate developing country/local research
+       capacity building? Please rate the capacity building potential of the project.
+
+              Your rating____1_____(on a scale of 1 to 5, with 1 being no local capacity building
+              and 5 being with significant local capacity building)
+
+
+              Comments:
+
+              The project does not have a local capacity building component – except that the team
+              plans to hire a STC/RA from a developing country, which hardly qualifies as capacity
+              building.
+
+
+
+7.     Operational Linkage. Is the consultation with related research and operations (client facing
+           lending, advisory services) units as documented in the proposal adequate? Will the study
+           promote collaboration between research and operations? Please rate the operational linkage
+           of the project.
+
+
+      Your rating:___3____ (on a scale of 1-5, with 1 being no linkage, and 5 being the
+      strongest potential to promote collaboration between research and operations)
+
+      Comments:
+
+      The proposal is described as a joint product of the trade group in DEC and the “Jobs
+      group” (GP) representing two key units that deal with the issues addressed by the
+      proposal . I am surprised that no contact seems to have been established with LAC, but
+      only with MENA and EAP, given the prominence of the Mexican case. There is no link to
+      operations, albeit there might be some potential to link with units dealing with issues of
+      social protection. Further, the links to job diagnostics reports could go beyond the
+      eclectic list of Bangladesh, Macedonia and Mexico (with the last of course an obvious
+      case).
+
+
+
+
+8.     Budget. Is the budget appropriate? Is the cost commensurate with the possible value of the
+           findings? If not, what is your suggested budget for this project if it’s worth funding.
+
+
+          Comments:
+
+          The proposal is budgeting a STC, some travel costs, and the costs for the
+          conference/workshop. This is adequate.
+
+                                                        5
+      Guidelines for Reviewers
+
+
+
+
+9.      Assess if the project is a impact evaluation project or a research project that will genearate new
+             knowledge on impact evaluation.
+
+
+               N/A
+
+
+
+
+10.     Suggestions. Where you identify shortcomings, please suggest alternatives to alleviate those
+            problems. This might include reference to literature using more appropriate methods,
+            reduced scope, a revised team, phased funding or re-sequenced activities. Where possible,
+            please give rough estimates of financial and schedule implications.
+
+            Comments:
+
+            I did not identify major shortcomings in the project set-up. As I have explained above
+            (policy impact) and below, my main suggestion to the authors is to dedicate some
+            intellectual effort to thinking beyond the specific academic insights of the planned papers
+            (and also the simulation exercises).
+
+
+
+
+                                                           6
+      Guidelines for Reviewers
+11.    Overall comments and rating.
+       Your overall rating of the proposal_____4______ (on a scale of 1-5, with 1 being the
+       worst, and 5 being the best)
+
+       Comments:
+
+       Overall, I clearly recommend this proposal for funding. First, it addresses a highly
+       relevant topic and can add sound empirical evidence to a policy discussion that – to a
+       large extent and in particular with reference to developing countries – relies on
+       assumptions. By examining the impacts of automation in a developing country context
+       it fills an important gap in an emerging literature. Second, the project is based on a
+       sound analytical framework using attainable data and has a clear and feasible
+       workplan that will be implemented by an experienced team. Third, the proposed budget
+       is plausible and reasonable.
+
+       The project neatly links KCP’s central “Shared Prosperity” theme with the topical
+       focus on “International Cooperation and Global Public Goods”.
+
+       I have outlined above some weaknesses of the proposal. The analytical part could have
+       been more clearly written. This holds in particular for the section on the Mexican case
+       study. Then, the data on the usage of robots come with challenges that are not easibly
+       addressed. Unfortunately, the proposal does not provide sufficient detail on these data
+       and solutions to potential empirical challenges in the specific context of the proposed
+       work. I am, however, confident that the team will be able to address the challenges
+       when they advance in their project. The literature review fails to synthesize the
+       different strands of the literature that are relevant to the project, but the authors are
+       able to demonstrate their knowledge of the state of the art.
+
+       I raise above some concerns regarding the potential policy impact of the project
+       despite the fact that the kind of evidence produced will be in high demand. Currently,
+       the proposal is fairly focused on generating new academic insights albeit it plans to
+       feature them in country strategies, blogs and a conference (with participation of
+       “policy-makers”). This is a welcome approach, but the findings may require a better
+       link to specific policies and (as stressed above lerady) may need to be put into
+       perspective to become policy-relevant.
+
+       So first, I would like to see some more explicit engagement with possible policy
+       responses (conditional on country characteristics and initial conditions). Too often,
+       broad policy recommendations in this realm boil down to “identifying and
+       compensating losers” and some supply-side labour market measures to help workers
+       adjust (“life-long learning” etc.). Here, a more systematic approach that looks into
+       policy responses in developing countries, for example to industry reallocations, would
+       be useful. Further, some fresh, and maybe unconventional, thinking may be required …
+       Can the “new” social protection systems (Mexico a case in point) be used to mitigate
+       potential adverse (imported) effects of automation? Are there other policies to deal
+       with adjustment and is there a role for trade policy.
+
+
+
+                                                          7
+Guidelines for Reviewers
+
+
+      Second, let me elaborate a bit more on how the findings need to put into perspective by
+      examining a bit more closely a statement made in the proposal, namely that automation
+      could “prematurely close the door for labor intensive, export-led growth as a
+      development model for inclusive growth”. For interpreting the results of their papers
+      with reference to this very important development policy question will require the
+      authors to go quite some way, which I wan to illustrate with two important aspects of
+      the effects of automation (and there are more). First, there have been – and probably
+      will be – very different varities of the “labor intensive, export-led” development model.
+      Leaving aside China as a very special case, there are countries that have developed (or
+      currently do) an export base in labour-intensive low-tech industries, typically in
+      textiles and apparels (Bangaldesh, Vietnam, Cambodia, Mauritius, etc.) that have
+      upgraded (or may in the future) to industries with higher valued added and deeper
+      integration into global value chains. Then, there are the cases of Mexico and Eastern
+      Europe (and some cases in the South-East Asia) where integration started when the
+      concerned countries were already at higher income levels, with an important role for
+      higher value added industries, often the automotive industry, in a number of cases.
+      Probably, automation will have very different implications at the different stages of
+      export-led development. Second, this, in turn, has important implications for the
+      distributional impacts of automation that is likely to differ between the different
+      varieties (or stages) of integration. For example, it is well known that the distributional
+      impacts of Mexico’s integration into global value chains were much less favorable than
+      anticipated by many.
+
+
+
+
+                                                      8
+
