@@ -24,7 +24,7 @@ if [ $ip_loc = "Singapore" ]; then
 					exit
 				else
 					echo "Something went wrong!"
-					exit(1)
+					exit 1
 				fi
 				;;
 			No) echo "Thank you for using Anon Checker! Goodbye."
