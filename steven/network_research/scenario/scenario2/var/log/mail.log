@@ -1,0 +1,71 @@
+Feb  9 22:50:34 localhost postfix[12484]: Postfix is running with backwards-compatible default settings
+Feb  9 22:50:34 localhost postfix[12484]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Feb  9 22:50:34 localhost postfix[12484]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Feb  9 22:50:34 localhost postfix/master[340]: reload -- version 3.1.0, configuration /etc/postfix
+Feb  9 22:50:34 localhost postfix[12529]: Postfix is running with backwards-compatible default settings
+Feb  9 22:50:34 localhost postfix[12529]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Feb  9 22:50:34 localhost postfix[12529]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Feb  9 22:50:34 localhost postfix/master[340]: reload -- version 3.1.0, configuration /etc/postfix
+Jun 10 15:54:07 vps postfix[397]: Postfix is running with backwards-compatible default settings
+Jun 10 15:54:07 vps postfix[397]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 10 15:54:07 vps postfix[397]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 10 15:54:07 vps postfix/master[434]: daemon started -- version 3.1.0, configuration /etc/postfix
+Jun 10 15:54:28 vps postfix[304]: Postfix is running with backwards-compatible default settings
+Jun 10 15:54:28 vps postfix[304]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 10 15:54:28 vps postfix[304]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 10 15:54:28 vps postfix/master[341]: daemon started -- version 3.1.0, configuration /etc/postfix
+Jun 10 15:54:33 vps postfix[436]: Postfix is running with backwards-compatible default settings
+Jun 10 15:54:33 vps postfix[436]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 10 15:54:33 vps postfix[436]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 10 15:54:33 vps postfix/master[341]: reload -- version 3.1.0, configuration /etc/postfix
+Jun 10 15:54:33 vps postfix[506]: Postfix is running with backwards-compatible default settings
+Jun 10 15:54:33 vps postfix[506]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 10 15:54:33 vps postfix[506]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 10 15:54:33 vps postfix/master[341]: reload -- version 3.1.0, configuration /etc/postfix
+Jun 10 15:54:34 vps postfix[558]: Postfix is running with backwards-compatible default settings
+Jun 10 15:54:34 vps postfix[558]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 10 15:54:34 vps postfix[558]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 10 15:54:34 vps postfix/master[341]: reload -- version 3.1.0, configuration /etc/postfix
+Jun 10 15:54:34 vps postfix[598]: Postfix is running with backwards-compatible default settings
+Jun 10 15:54:34 vps postfix[598]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 10 15:54:34 vps postfix[598]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 10 15:54:34 vps postfix/master[341]: reload -- version 3.1.0, configuration /etc/postfix
+Jun 10 15:54:46 vps postfix[650]: Postfix is running with backwards-compatible default settings
+Jun 10 15:54:46 vps postfix[650]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 10 15:54:46 vps postfix[650]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 10 15:54:46 vps postfix/master[341]: reload -- version 3.1.0, configuration /etc/postfix
+Jun 10 15:54:46 vps postfix[695]: Postfix is running with backwards-compatible default settings
+Jun 10 15:54:46 vps postfix[695]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 10 15:54:46 vps postfix[695]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 10 15:54:46 vps postfix/master[341]: reload -- version 3.1.0, configuration /etc/postfix
+Jun 10 15:54:50 vps postfix[822]: Postfix is running with backwards-compatible default settings
+Jun 10 15:54:50 vps postfix[822]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 10 15:54:50 vps postfix[822]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 10 15:54:50 vps postfix/master[341]: reload -- version 3.1.0, configuration /etc/postfix
+Jun 10 15:54:50 vps postfix[894]: Postfix is running with backwards-compatible default settings
+Jun 10 15:54:50 vps postfix[894]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 10 15:54:50 vps postfix[894]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 10 15:54:50 vps postfix/master[341]: reload -- version 3.1.0, configuration /etc/postfix
+Jun 10 15:54:50 vps postfix[946]: Postfix is running with backwards-compatible default settings
+Jun 10 15:54:50 vps postfix[946]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 10 15:54:50 vps postfix[946]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 10 15:54:50 vps postfix/master[341]: reload -- version 3.1.0, configuration /etc/postfix
+Jun 10 15:54:50 vps postfix[986]: Postfix is running with backwards-compatible default settings
+Jun 10 15:54:50 vps postfix[986]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 10 15:54:50 vps postfix[986]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 10 15:54:50 vps postfix/master[341]: reload -- version 3.1.0, configuration /etc/postfix
+Jun 10 15:55:30 lab02 postfix[445]: Postfix is running with backwards-compatible default settings
+Jun 10 15:55:30 lab02 postfix[445]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 10 15:55:30 lab02 postfix[445]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 10 15:55:30 lab02 postfix/master[482]: daemon started -- version 3.1.0, configuration /etc/postfix
+Jun 10 16:46:03 lab02 postfix/smtpd[8403]: connect from unknown[45.143.223.183]
+Jun 10 16:46:04 lab02 postfix/smtpd[8403]: NOQUEUE: reject: RCPT from unknown[45.143.223.183]: 454 4.7.1 <spameri@tiscali.it>: Relay access denied; from=<spameri@tiscali.it> to=<spameri@tiscali.it> proto=ESMTP helo=<WIN-CLJ1B0GQ6JP>
+Jun 10 16:46:04 lab02 postfix/smtpd[8403]: disconnect from unknown[45.143.223.183] ehlo=1 mail=1 rcpt=0/1 rset=1 quit=1 commands=4/5
+Jun 10 16:49:24 lab02 postfix/anvil[8406]: statistics: max connection rate 1/60s for (smtp:45.143.223.183) at Jun 10 16:46:03
+Jun 10 16:49:24 lab02 postfix/anvil[8406]: statistics: max connection count 1 for (smtp:45.143.223.183) at Jun 10 16:46:03
+Jun 10 16:49:24 lab02 postfix/anvil[8406]: statistics: max cache size 1 at Jun 10 16:46:03
+Jun 11 08:51:55 lab02 postfix/smtpd[28326]: connect from unknown[71.6.232.5]
+Jun 11 08:51:55 lab02 postfix/smtpd[28326]: disconnect from unknown[71.6.232.5] ehlo=1 quit=1 commands=2
+Jun 11 08:55:16 lab02 postfix/anvil[28328]: statistics: max connection rate 1/60s for (smtp:71.6.232.5) at Jun 11 08:51:55
+Jun 11 08:55:16 lab02 postfix/anvil[28328]: statistics: max connection count 1 for (smtp:71.6.232.5) at Jun 11 08:51:55
+Jun 11 08:55:16 lab02 postfix/anvil[28328]: statistics: max cache size 1 at Jun 11 08:51:55

@@ -1,0 +1,76 @@
+update-alternatives 2020-06-10 15:57:25: run with --install /usr/bin/sar sar /usr/bin/sar.sysstat 0 --slave /usr/share/man/man1/sar.1.gz sar.1.gz /usr/share/man/man1/sar.sysstat.1.gz
+update-alternatives 2020-06-10 15:57:25: link group sar updated to point to /usr/bin/sar.sysstat
+update-alternatives 2020-06-10 15:57:30: run with --quiet --remove rlogin /usr/bin/ssh
+update-alternatives 2020-06-10 15:57:30: run with --quiet --remove rcp /usr/bin/ssh
+update-alternatives 2020-06-10 15:59:15: run with --quiet --install /lib/cpp cpp /usr/bin/cpp 10
+update-alternatives 2020-06-10 15:59:15: link group cpp updated to point to /usr/bin/cpp
+update-alternatives 2020-06-10 15:59:15: run with --quiet --install /usr/bin/cc cc /usr/bin/gcc 20 --slave /usr/share/man/man1/cc.1.gz cc.1.gz /usr/share/man/man1/gcc.1.gz
+update-alternatives 2020-06-10 15:59:15: link group cc updated to point to /usr/bin/gcc
+update-alternatives 2020-06-10 15:59:15: run with --quiet --install /usr/bin/c89 c89 /usr/bin/c89-gcc 20 --slave /usr/share/man/man1/c89.1.gz c89.1.gz /usr/share/man/man1/c89-gcc.1.gz
+update-alternatives 2020-06-10 15:59:15: link group c89 updated to point to /usr/bin/c89-gcc
+update-alternatives 2020-06-10 15:59:15: run with --quiet --install /usr/bin/c99 c99 /usr/bin/c99-gcc 20 --slave /usr/share/man/man1/c99.1.gz c99.1.gz /usr/share/man/man1/c99-gcc.1.gz
+update-alternatives 2020-06-10 15:59:15: link group c99 updated to point to /usr/bin/c99-gcc
+update-alternatives 2020-06-10 15:59:15: run with --install /usr/bin/c++ c++ /usr/bin/g++ 20 --slave /usr/share/man/man1/c++.1.gz c++.1.gz /usr/share/man/man1/g++.1.gz
+update-alternatives 2020-06-10 15:59:15: link group c++ updated to point to /usr/bin/g++
+update-alternatives 2020-06-10 15:59:15: run with --install /usr/bin/fakeroot fakeroot /usr/bin/fakeroot-sysv 50 --slave /usr/share/man/man1/fakeroot.1.gz fakeroot.1.gz /usr/share/man/man1/fakeroot-sysv.1.gz --slave /usr/share/man/man1/faked.1.gz faked.1.gz /usr/share/man/man1/faked-sysv.1.gz --slave /usr/share/man/es/man1/fakeroot.1.gz fakeroot.es.1.gz /usr/share/man/es/man1/fakeroot-sysv.1.gz --slave /usr/share/man/es/man1/faked.1.gz faked.es.1.gz /usr/share/man/es/man1/faked-sysv.1.gz --slave /usr/share/man/fr/man1/fakeroot.1.gz fakeroot.fr.1.gz /usr/share/man/fr/man1/fakeroot-sysv.1.gz --slave /usr/share/man/fr/man1/faked.1.gz faked.fr.1.gz /usr/share/man/fr/man1/faked-sysv.1.gz --slave /usr/share/man/sv/man1/fakeroot.1.gz fakeroot.sv.1.gz /usr/share/man/sv/man1/fakeroot-sysv.1.gz --slave /usr/share/man/sv/man1/faked.1.gz faked.sv.1.gz /usr/share/man/sv/man1/faked-sysv.1.gz
+update-alternatives 2020-06-10 15:59:15: link group fakeroot updated to point to /usr/bin/fakeroot-sysv
+update-alternatives 2020-06-10 15:59:15: run with --install /usr/bin/fakeroot fakeroot /usr/bin/fakeroot-tcp 30 --slave /usr/share/man/man1/fakeroot.1.gz fakeroot.1.gz /usr/share/man/man1/fakeroot-tcp.1.gz --slave /usr/share/man/man1/faked.1.gz faked.1.gz /usr/share/man/man1/faked-tcp.1.gz --slave /usr/share/man/es/man1/fakeroot.1.gz fakeroot.es.1.gz /usr/share/man/es/man1/fakeroot-tcp.1.gz --slave /usr/share/man/es/man1/faked.1.gz faked.es.1.gz /usr/share/man/es/man1/faked-tcp.1.gz --slave /usr/share/man/fr/man1/fakeroot.1.gz fakeroot.fr.1.gz /usr/share/man/fr/man1/fakeroot-tcp.1.gz --slave /usr/share/man/fr/man1/faked.1.gz faked.fr.1.gz /usr/share/man/fr/man1/faked-tcp.1.gz --slave /usr/share/man/sv/man1/fakeroot.1.gz fakeroot.sv.1.gz /usr/share/man/sv/man1/fakeroot-tcp.1.gz --slave /usr/share/man/sv/man1/faked.1.gz faked.sv.1.gz /usr/share/man/sv/man1/faked-tcp.1.gz
+update-alternatives 2020-06-10 15:59:58: run with --install /etc/mysql/my.cnf my.cnf /etc/mysql/my.cnf.fallback 100
+update-alternatives 2020-06-10 15:59:58: link group my.cnf updated to point to /etc/mysql/my.cnf.fallback
+update-alternatives 2020-06-10 16:00:15: run with --install /usr/bin/php php /usr/bin/php7.0 70 --slave /usr/share/man/man1/php.1.gz php.1.gz /usr/share/man/man1/php7.0.1.gz
+update-alternatives 2020-06-10 16:00:15: link group php updated to point to /usr/bin/php7.0
+update-alternatives 2020-06-10 16:00:15: run with --install /usr/bin/phar phar /usr/bin/phar7.0 70 --slave /usr/share/man/man1/phar.1.gz phar.1.gz /usr/share/man/man1/phar7.0.1.gz
+update-alternatives 2020-06-10 16:00:15: link group phar updated to point to /usr/bin/phar7.0
+update-alternatives 2020-06-10 16:00:15: run with --install /usr/bin/phar.phar phar.phar /usr/bin/phar.phar7.0 70 --slave /usr/share/man/man1/phar.phar.1.gz phar.phar.1.gz /usr/share/man/man1/phar.phar7.0.1.gz
+update-alternatives 2020-06-10 16:00:15: link group phar.phar updated to point to /usr/bin/phar.phar7.0
+update-alternatives 2020-06-10 16:00:47: run with --install /usr/lib/libblas.so.3 libblas.so.3 /usr/lib/libblas/libblas.so.3 10
+update-alternatives 2020-06-10 16:00:47: link group libblas.so.3 updated to point to /usr/lib/libblas/libblas.so.3
+update-alternatives 2020-06-10 16:04:01: run with --install /usr/lib/x86_64-linux-gnu/libtxc_dxtn.so libtxc-dxtn-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/libtxc_dxtn_s2tc.so.0 10
+update-alternatives 2020-06-10 16:04:01: link group libtxc-dxtn-x86_64-linux-gnu updated to point to /usr/lib/x86_64-linux-gnu/libtxc_dxtn_s2tc.so.0
+update-alternatives 2020-06-10 16:04:01: run with --force --install /etc/ld.so.conf.d/x86_64-linux-gnu_EGL.conf x86_64-linux-gnu_egl_conf /usr/lib/x86_64-linux-gnu/mesa-egl/ld.so.conf 500
+update-alternatives 2020-06-10 16:04:01: link group x86_64-linux-gnu_egl_conf updated to point to /usr/lib/x86_64-linux-gnu/mesa-egl/ld.so.conf
+update-alternatives 2020-06-10 16:04:03: run with --force --install /etc/ld.so.conf.d/x86_64-linux-gnu_GL.conf x86_64-linux-gnu_gl_conf /usr/lib/x86_64-linux-gnu/mesa/ld.so.conf 500 --slave /usr/lib/x86_64-linux-gnu/xorg/extra-modules x86_64-linux-gnu_xorg_extra_modules /usr/lib/x86_64-linux-gnu/xorg/x11-extra-modules
+update-alternatives 2020-06-10 16:04:03: link group x86_64-linux-gnu_gl_conf updated to point to /usr/lib/x86_64-linux-gnu/mesa/ld.so.conf
+update-alternatives 2020-06-10 16:04:03: run with --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/Adwaita/cursor.theme 90
+update-alternatives 2020-06-10 16:04:03: link group x-cursor-theme updated to point to /usr/share/icons/Adwaita/cursor.theme
+update-alternatives 2020-06-10 16:04:04: run with --quiet --install /usr/bin/odt2txt odt2txt /usr/bin/odt2txt.unoconv 100 --slave /usr/share/man/man1/odt2txt.1.gz odt2txt.1.gz /usr/share/man/man1/odt2txt.unoconv.1.gz
+update-alternatives 2020-06-10 16:04:04: link group odt2txt updated to point to /usr/bin/odt2txt.unoconv
+update-alternatives 2020-06-10 16:04:28: run with --install /bin/nc nc /bin/nc.traditional 10 --slave /bin/netcat netcat /bin/nc.traditional --slave /usr/share/man/man1/nc.1.gz nc.1.gz /usr/share/man/man1/nc.traditional.1.gz --slave /usr/share/man/man1/netcat.1.gz netcat.1.gz /usr/share/man/man1/nc.traditional.1.gz
+update-alternatives 2020-06-10 16:04:28: link group nc updated to point to /bin/nc.traditional
+update-alternatives 2020-06-10 16:05:27: run with --install /usr/bin/msfbinscan msfbinscan /opt/metasploit-framework/bin/msfbinscan 100
+update-alternatives 2020-06-10 16:05:27: link group msfbinscan updated to point to /opt/metasploit-framework/bin/msfbinscan
+update-alternatives 2020-06-10 16:05:27: run with --install /usr/bin/msfconsole msfconsole /opt/metasploit-framework/bin/msfconsole 100
+update-alternatives 2020-06-10 16:05:27: link group msfconsole updated to point to /opt/metasploit-framework/bin/msfconsole
+update-alternatives 2020-06-10 16:05:27: run with --install /usr/bin/msfd msfd /opt/metasploit-framework/bin/msfd 100
+update-alternatives 2020-06-10 16:05:27: link group msfd updated to point to /opt/metasploit-framework/bin/msfd
+update-alternatives 2020-06-10 16:05:27: run with --install /usr/bin/msfdb msfdb /opt/metasploit-framework/bin/msfdb 100
+update-alternatives 2020-06-10 16:05:27: link group msfdb updated to point to /opt/metasploit-framework/bin/msfdb
+update-alternatives 2020-06-10 16:05:27: run with --install /usr/bin/msfelfscan msfelfscan /opt/metasploit-framework/bin/msfelfscan 100
+update-alternatives 2020-06-10 16:05:27: link group msfelfscan updated to point to /opt/metasploit-framework/bin/msfelfscan
+update-alternatives 2020-06-10 16:05:27: run with --install /usr/bin/msfmachscan msfmachscan /opt/metasploit-framework/bin/msfmachscan 100
+update-alternatives 2020-06-10 16:05:27: link group msfmachscan updated to point to /opt/metasploit-framework/bin/msfmachscan
+update-alternatives 2020-06-10 16:05:27: run with --install /usr/bin/msfpescan msfpescan /opt/metasploit-framework/bin/msfpescan 100
+update-alternatives 2020-06-10 16:05:27: link group msfpescan updated to point to /opt/metasploit-framework/bin/msfpescan
+update-alternatives 2020-06-10 16:05:27: run with --install /usr/bin/msfrop msfrop /opt/metasploit-framework/bin/msfrop 100
+update-alternatives 2020-06-10 16:05:27: link group msfrop updated to point to /opt/metasploit-framework/bin/msfrop
+update-alternatives 2020-06-10 16:05:27: run with --install /usr/bin/msfrpc msfrpc /opt/metasploit-framework/bin/msfrpc 100
+update-alternatives 2020-06-10 16:05:27: link group msfrpc updated to point to /opt/metasploit-framework/bin/msfrpc
+update-alternatives 2020-06-10 16:05:27: run with --install /usr/bin/msfrpcd msfrpcd /opt/metasploit-framework/bin/msfrpcd 100
+update-alternatives 2020-06-10 16:05:27: link group msfrpcd updated to point to /opt/metasploit-framework/bin/msfrpcd
+update-alternatives 2020-06-10 16:05:27: run with --install /usr/bin/msfupdate msfupdate /opt/metasploit-framework/bin/msfupdate 100
+update-alternatives 2020-06-10 16:05:27: link group msfupdate updated to point to /opt/metasploit-framework/bin/msfupdate
+update-alternatives 2020-06-10 16:05:27: run with --install /usr/bin/msfvenom msfvenom /opt/metasploit-framework/bin/msfvenom 100
+update-alternatives 2020-06-10 16:05:27: link group msfvenom updated to point to /opt/metasploit-framework/bin/msfvenom
+update-alternatives 2020-06-11 06:03:30: run with --remove builtins.7.gz /usr/share/man/man7/bash-builtins.7.gz
+update-alternatives 2020-06-11 06:03:30: link group builtins.7.gz fully removed
+update-alternatives 2020-06-11 06:03:32: run with --install /usr/share/man/man7/builtins.7.gz builtins.7.gz /usr/share/man/man7/bash-builtins.7.gz 10
+update-alternatives 2020-06-11 06:03:32: link group builtins.7.gz updated to point to /usr/share/man/man7/bash-builtins.7.gz
+update-alternatives 2020-06-11 06:03:38: run with --install /bin/mt mt /bin/mt-gnu 10 --slave /usr/share/man/man1/mt.1.gz mt.1.gz /usr/share/man/man1/mt-gnu.1.gz
+update-alternatives 2020-06-11 06:05:28: run with --install /usr/bin/vim vim /usr/bin/vim.basic 30
+update-alternatives 2020-06-11 06:05:28: run with --install /usr/bin/vimdiff vimdiff /usr/bin/vim.basic 30
+update-alternatives 2020-06-11 06:05:28: run with --install /usr/bin/rvim rvim /usr/bin/vim.basic 30
+update-alternatives 2020-06-11 06:05:28: run with --install /usr/bin/rview rview /usr/bin/vim.basic 30
+update-alternatives 2020-06-11 06:05:28: run with --install /usr/bin/vi vi /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/vi.1.gz vi.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/vi.1.gz vi.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/vi.1.gz vi.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/vi.1.gz vi.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/vi.1.gz vi.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/vi.1.gz vi.1.gz /usr/share/man/man1/vim.1.gz
+update-alternatives 2020-06-11 06:05:28: run with --install /usr/bin/view view /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/view.1.gz view.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/view.1.gz view.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/view.1.gz view.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/view.1.gz view.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/view.1.gz view.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/vim.1.gz
+update-alternatives 2020-06-11 06:05:28: run with --install /usr/bin/ex ex /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/ex.1.gz ex.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/ex.1.gz ex.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/ex.1.gz ex.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/ex.1.gz ex.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/ex.1.gz ex.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/ex.1.gz ex.1.gz /usr/share/man/man1/vim.1.gz
+update-alternatives 2020-06-11 06:05:28: run with --install /usr/bin/editor editor /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/editor.1.gz editor.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/editor.1.gz editor.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/editor.1.gz editor.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/editor.1.gz editor.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/editor.1.gz editor.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/vim.1.gz

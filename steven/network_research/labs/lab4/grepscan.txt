@@ -1,0 +1,4 @@
+# Nmap 7.91 scan initiated Sun Sep 12 03:19:29 2021 as: nmap -oG grepscan.txt rest.vulnweb.com
+Host: 18.158.156.139 (ec2-18-158-156-139.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.156.139 (ec2-18-158-156-139.eu-central-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 5060/open/tcp//sip///, 8080/open/tcp//http-proxy///	Ignored State: filtered (997)
+# Nmap done at Sun Sep 12 03:20:27 2021 -- 1 IP address (1 host up) scanned in 58.23 seconds
