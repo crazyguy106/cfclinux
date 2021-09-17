@@ -22,13 +22,13 @@ function user_country {
 			
 			case $COUNTRY_CODE in 
 				SG | sg | Singapore | SINGAPORE | singapore )
-				echo "You have entered the coutry as Singapore." 
+				echo -e "You have entered the coutry as \e[1;31mSingapore\e[0m." 
 				COUNTRY_USER_INPUT="SG"
 				A_CHECKER=1
 				shift
 				;;
 				IL | il | Israel | ISRAEL | israel )
-				echo "You have entered the country as Israel." 
+				echo "You have entered the country as \e[1;31mIsrael\e[0m." 
 				COUNTRY_USER_INPUT="IL"
 				A_CHECKER=1
 				shift
@@ -51,12 +51,12 @@ function anon_check {
 	IP_ME=$(curl -s ifconfig.me)
 	COUNTRY_ME=$(curl -s https://freegeoip.app/xml/$IP_ME | grep CountryCode | sed 's/[<>]/ /g' | awk '{print $2}')
 	if [ "$COUNTRY_USER_INPUT" == "$COUNTRY_ME" ]; then
-		echo -e "\n[!] You are NOT anonymous!"
-		echo "[!]IP: $IP_ME COUNTRY: $COUNTRY_ME"
+		echo -e "\n[!] You are \e[1;31mNOT anonymous\e[0m!"
+		echo -e "[!]IP: $IP_ME COUNTRY: \e[1;31m$COUNTRY_ME\e[0m"
 		ANON_STATUS=1 #Not anonympus
 	else
-		echo -e "\n[*]Great! You are anonymous!"
-		echo "[*]IP: $IP_ME COUNTRY: $COUNTRY_ME"
+		echo -e "\n[*]Great! You are \e[1;31mANONYMOUS\e[0m!"
+		echo -e "[*]IP: $IP_ME COUNTRY: \e[1;31m$COUNTRY_ME\e[0m"
 		ANON_STATUS=0 #Anonymous
 	fi			
 }
@@ -288,7 +288,7 @@ function nmap_scan {
 	
 	if [ -f "$NMAP_PORT_O" ]; then
 		OPEN_PORT_RECORD=$(cat $NMAP_PORT_O | wc -l)
-		echo "[*]Nmap scanning completed. Found $OPEN_PORT_RECORD IP record(s) with open ports."
+		echo -e "[*]Nmap scanning completed. Found \e[1;31m$OPEN_PORT_RECORD\e[0m IP record(s) with open ports."
 	else
 		echo "[!]Nmap did not find any open ports."
 	fi
@@ -386,7 +386,7 @@ function hydra_bf {
 #output hydra result
 function hydra_output {
 	if [ -f "$HYDRA_RESULT" ]; then
-		echo -e "\n[!]Target(s) successfuly completed!"
+		echo -e "\n\e[1;31m[!]Target(s) successfuly completed!\e[0m"
 		cat $HYDRA_RESULT | grep -v "^#" | sort | uniq 
 	else
 		echo -e "\n[!]Brute-force attack was not successful. No Targets found!"
